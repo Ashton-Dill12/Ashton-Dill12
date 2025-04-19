@@ -86,7 +86,7 @@ To contribute to a Security Operations Center (SOC) as a Tier 1 Analyst by lever
 
 ## 💻 Projects
 
-### 🔐 [PCI Compliance Access Review | Arvest Bank](https://github.com/Ashton-Dill12/pci-compliance-project)  
+### 🔐 [PCI Compliance Access Review | Arvest Bank](https://github.com/Ashton-Dill12/PCI-Compliance)  
 **Focus:** Data access governance for PCI & PII systems  
 - Led a process improvement project to streamline how application access to sensitive PCI/PII data is reviewed and approved  
 - Identified gaps in visibility and communication between teams, leading to security recommendations  
@@ -95,11 +95,11 @@ To contribute to a Security Operations Center (SOC) as a Tier 1 Analyst by lever
 **Skills Applied:** Risk analysis, data classification, compliance alignment, stakeholder communication  
 **Tools:** Excel, policy documentation, Netskope, internal ticketing systems  
 **Status:** Completed  
-**Repo:** [View Repository](https://github.com/Ashton-Dill12/pci-compliance-project)
+**Repo:** [View Repository](https://github.com/Ashton-Dill12/PCI-Compliance)
 
 ---
 
-### 🧰 [Web Application Firewall (WAF) Research | Arvest Bank](https://github.com/Ashton-Dill12/waf-research-project)  
+### 🧰 [Web Application Firewall (WAF) Research | Arvest Bank](https://github.com/Ashton-Dill12/WAF-Directory)  
 **Focus:** Evaluating WAF solutions to strengthen perimeter security  
 - Researched industry-leading WAF tools and deployment strategies  
 - Analyzed how WAFs detect and block OWASP Top 10 threats  
@@ -108,11 +108,11 @@ To contribute to a Security Operations Center (SOC) as a Tier 1 Analyst by lever
 **Skills Applied:** Vulnerability research, comparative analysis, documentation  
 **Tools:** Configuration Management Database, Excel  
 **Status:** Completed  
-**Repo:** [View Repository](https://github.com/Ashton-Dill12/waf-research-project)
+**Repo:** [View Repository](https://github.com/Ashton-Dill12/WAF-Directory)
 
 ---
 
-### 📊 [Student Support Analytics Dashboard | University of Arkansas](https://github.com/Ashton-Dill12/student-analytics-dashboard)  
+### 📊 [Student Support Analytics Dashboard | University of Arkansas](https://github.com/Ashton-Dill12/SS-Analytics-Dashboard)  
 **Focus:** Privacy-conscious data visualization for support services  
 - Anonymized sensitive student data to ensure FERPA compliance  
 - Created interactive dashboards in Power BI to track attendance and demographics  
@@ -120,11 +120,11 @@ To contribute to a Security Operations Center (SOC) as a Tier 1 Analyst by lever
 
 **Tools:** Excel, Power BI, SQL  
 **Status:** Completed  
-**Repo:** [View Repository](https://github.com/Ashton-Dill12/student-analytics-dashboard)
+**Repo:** [View Repository](https://github.com/Ashton-Dill12/SS-Analytics-Dashboard)
 
 ---
 
-### 🚴‍♀️ [Take The Lane – UX & Data Research | VIP Program](https://github.com/Ashton-Dill12/take-the-lane-vip)  
+### 🚴‍♀️ [Take The Lane – UX & Data Research | VIP Program](https://github.com/Ashton-Dill12/TakeTheLane)  
 **Focus:** Customer discovery, UX design, data-driven iteration  
 - Conducted interviews and surveys to refine product-market fit  
 - Translated qualitative feedback into wireframes and user flows  
@@ -132,7 +132,7 @@ To contribute to a Security Operations Center (SOC) as a Tier 1 Analyst by lever
 
 **Tools:** Canva, Excel, Figma, C#  
 **Status:** Ongoing  
-**Repo:** [View Repository](https://github.com/Ashton-Dill12/take-the-lane-vip)
+**Repo:** [View Repository](https://github.com/Ashton-Dill12/TakeTheLane)
 
 ## 🤝 Let's Connect
 
